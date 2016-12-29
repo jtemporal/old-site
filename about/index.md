@@ -14,3 +14,5 @@ comments: false
 [Twitter](https://twitter.com/jesstemporal)
 
 [Instagram](https://www.instagram.com/jesstemporal/)
+
+[Medium](https://medium.com/@jessicatemporal/)
