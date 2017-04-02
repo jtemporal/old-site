@@ -1,7 +1,7 @@
 ---
 layout: talk 
 title: Cloud Girls Meetup
-date: 2017-04-02
+date: 2017-04-04
 talk: true
 comments: false
 ---
