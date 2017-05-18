@@ -1,6 +1,6 @@
 ---
 layout: talk 
-title: Cloud Girls Meetup
+title: Meetup: Mecanismos de prevenção e combate a corrupção
 date: 2017-05-18
 talk: true
 comments: false
