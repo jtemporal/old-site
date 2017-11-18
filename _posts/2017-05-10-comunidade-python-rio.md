@@ -6,7 +6,7 @@ tags: [português, Python, Comunidade, Rio De Janeiro, Eventos, Pessoal]
 comments: true
 ---
 
-## Uma história de amor
+### Uma história de amor
 
 Uma frase que eu ouvi desde o primeiro dia que conheci parte da galera de Python em Ribeirão Preto e não demorei muito tempo pra entender:
 

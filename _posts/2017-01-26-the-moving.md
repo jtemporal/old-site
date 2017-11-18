@@ -6,7 +6,7 @@ tags: [personal, love, friends, english]
 comments: true
 ---
 
-## A letter to my friends
+### A letter to my friends
 
 I move a lot. At least a lot considering that most of the people I met lived in one city or maybe two. So far I moved to 7 cities. I lived in 11 houses. And I still haven’t figured out the whole “having friends that live far away” part.
 

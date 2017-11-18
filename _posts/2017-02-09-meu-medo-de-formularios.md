@@ -6,7 +6,7 @@ tags: [português, Síndrome Do Impostor, Formulários, Django Girls, Django, Pe
 comments: true
 ---
 
-## Hoje, entre um build e outro, preenchi mais um.
+### Hoje, entre um build e outro, preenchi mais um.
 
 Vou começar contando uma história pra vocês — como faço quase sempre — era uma vez…
 

@@ -6,7 +6,7 @@ tags: [Github, Git, Digital Ocean, Hacktoberfest, Open Source, portugues]
 comments: true
 ---
 ![hacktoberfest banner promocional](https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-TWFB-02.png)
-## Esse texto é especialmente pra você que nunca contribuiu com algum projeto open source antes
+### Esse texto é especialmente pra você que nunca contribuiu com algum projeto open source antes
 
 ### Aah o mês de outubro…
 O mês de outubro está chegando e para mim, ele fica marcado por duas coisas: a Python Brasil e pelas contribuições em projetos de código aberto. A Python Brasil é assunto para um outro post, hoje quero falar um pouquinho (mais) de open source.
