@@ -14,4 +14,5 @@ Na apresentação vamos falar o que é a Operação Serenata de Amor, como o tim
 [Machine Learning, Big Data e Engenharia Meetup](https://www.meetup.com/machine-learning-big-data-engenharia/events/237665089/)
 
 ### Apresentação
+<center>
 <iframe src="https://docs.google.com/presentation/d/1s6dDLbgg7eeT3XPIC7b4asIuK4trYGQl02xb0uO_1JA/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
