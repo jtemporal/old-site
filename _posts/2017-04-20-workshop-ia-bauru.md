@@ -1,17 +1,14 @@
 ---
 layout: talk 
-title: Cloud Girls Meetup
-date: 2017-04-04
+title: "Workshop Mineração de Dados e Inteligência Artificial"
+date: 2017-04-20
 talk: true
 comments: false
 ---
 
-![o time](/images/serenata-ds/o-time.jpg)
+![eu e cuducos](/images/workshop-ia-bauru/serenta-em-bauru.jpg)
 
-Utilizando dados abertos para denunciar discrepâncias nas prestações de contas dos deputados federais.
-
-### Evento
-[Cloud Girls Meetup](https://www.meetup.com/Cloud-Girls-Sao-Paulo/events/238450896/)
+Palestra conjunta com o Eduardo Cuducos no Workshop sobre Mineração de Dados e Inteligência Artificial da Receita Federal de Bauru.
 
 ### Apresentação
 <center>

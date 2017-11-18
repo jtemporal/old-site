@@ -1,17 +1,17 @@
 ---
 layout: talk 
-title: Cloud Girls Meetup
-date: 2017-04-04
+title: "Big Data Meetup: Serenata de Amor"
+date: 2017-03-29
 talk: true
 comments: false
 ---
 
-![o time](/images/serenata-ds/o-time.jpg)
+![gif big data meetup](/images/bigdata-meetup/big-data-sp-meetup.gif)
 
 Utilizando dados abertos para denunciar discrepâncias nas prestações de contas dos deputados federais.
 
 ### Evento
-[Cloud Girls Meetup](https://www.meetup.com/Cloud-Girls-Sao-Paulo/events/238450896/)
+[São Paulo Big Data Meetup (Março 2017)](https://www.meetup.com/Sao-Paulo-Big-Data-Meetup/events/238249402/)
 
 ### Apresentação
 <center>
