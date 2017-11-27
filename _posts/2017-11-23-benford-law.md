@@ -2,7 +2,7 @@
 title: "A Lei de Benford e a beleza dos números"
 layout: post
 date: 2017-11-23
-tags: [r, r-lang, benford, lei de benford, português, git, open source, código]
+tags: [data science, ciencia de dados, analise de dados, r, r-lang, benford, lei de benford, português, git, open source, código]
 comments: true
 ---
 
