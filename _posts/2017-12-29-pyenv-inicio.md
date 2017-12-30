@@ -12,7 +12,7 @@ comments: true
 ---
 
 
-Uma das primeiras coisas que aprendemos sobre [Python](https://www.python.org/) é que existem mais de uma versão da mesma linguagem funcionando a todo vapor. Isso traz alguns problemas e a inevitável pergunta _"Qual versão eu devo usar?"_. A colinha de hoje mostra uma forma de instalar e manter o controle de vaárias versões do Python na sua máquina 😉.
+Uma das primeiras coisas que aprendemos sobre [Python](https://www.python.org/) é que existem mais de uma versão da mesma linguagem funcionando a todo vapor. Isso traz alguns problemas e a inevitável pergunta _"Qual versão eu devo usar?"_. A colinha de hoje mostra uma forma de instalar e manter o controle de várias versões do Python na sua máquina 😉.
 
 Entre outras coisas, as duas melhores coisas que o [pyenv](https://github.com/pyenv/pyenv) faz na minha humilde opinião são:
 
