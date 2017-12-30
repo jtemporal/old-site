@@ -30,7 +30,7 @@ $ echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
 $ exec "$SHELL"
 ~~~
 
-Depois desse passo é bem facinho, as outras versões do Python estão a um _isntall_ de distância:
+Depois desse passo é bem facinho, as outras versões do Python estão a um _install_ de distância:
 
 ~~~ console
 $ pyenv install 3.6.4
