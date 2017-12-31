@@ -32,7 +32,6 @@ E para ativar o ambiente:
 $ source meuenv/bin/activate
 ~~~
 
-
 Agora atenção para uma coisa: essa forma de criar ambientes virtuais não permite que você crie ambientes para outras versões que não aquela que você esteja usando.
 
 ~~~ console
@@ -51,6 +50,8 @@ $ python --version
 $ python -m venv meuoutroenv
 $ source meuoutroenv/bin/activate
 ~~~
+
+Uma das vantagens de ter um módulo desses embutido na linguagem é não precisar instalar nada mais para conseguir criar ambientes virtuais. Pra galera evita instalar coisas extras no computador como eu isso é fantástico.
 
 E agora só fazer `pip install` e começar com os códigos ☺️
 
