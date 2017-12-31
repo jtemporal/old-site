@@ -26,6 +26,9 @@ layout: compress
                         {% if post.project == null %}
                         {% if post.talk == null %}
                         {% if post.tutorial == null %}
+                        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+                        {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+                        {% if posttime < nowunix %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
@@ -33,6 +36,7 @@ layout: compress
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
+                        {% endif %}
                         {% endif %}
                         {% endif %}
                         {% endif %}
