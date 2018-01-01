@@ -12,6 +12,7 @@ url:                https://jtemporal.github.io
 url_share:          http://jtemporal.com
 
 # Jekyll
+timezone:           America/Sao_Paulo
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
