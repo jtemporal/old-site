@@ -35,7 +35,7 @@ e escrever um commit usando a opção `--allow-empty`:
 ~/jtemporal.github.io $ git commit --allow-empty -m "Forçando o rebuild"
 ~~~
 
-ou se preferir editar a mensagem no editor de texto:
+ou se preferir editar a mensagem do commit no editor de texto:
 
 ~~~ console
 ~/jtemporal.github.io $ git commit --allow-empty
