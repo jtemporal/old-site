@@ -1,5 +1,5 @@
 ---
-title: "Forçando o rebuild de sites Jekyll hosteados no GitHub"
+title: "Forçando o rebuild de sites Jekyll hospedados no GitHub"
 layout: post
 date: '2018-01-03 10:00:00'
 tags:
