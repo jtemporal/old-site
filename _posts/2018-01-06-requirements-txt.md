@@ -40,7 +40,7 @@ Considerando esse `requirements.txt` aqui:
 
 Temos várias informações importantes, vamos repassá-las linha a linha:
 
-1. **git+https://github.com/jtemporal/caipyra.git@master**: Dessa forma conseguimos instalar pacotes Python que estejam disponíveis no GitHub mas não no PyPI. Essa é uma dica muito legal quando por exemplo, você precisa da versão em desenvolvimento de um biblioteca ou quando você prefere usar um fork no lugar da versão tradicional do pacote.
+1. **-e git+https://github.com/jtemporal/caipyra.git@master#egg=caipyra**: Dessa forma conseguimos instalar pacotes Python que estejam disponíveis no GitHub mas não no PyPI. Essa é uma dica muito legal quando por exemplo, você precisa da versão em desenvolvimento de um biblioteca ou quando você prefere usar um fork no lugar da versão tradicional do pacote.
 
 1. **seaborn==0.8.1**: No caso do seaborn, estamos instalando a versão `0.8.1`. Fixar a versão dessa forma é interessante pois garante que o seu projeto vai sempre estar funcionando já que mudanças nos pacotes são indicadas pela alteração no número da versão.
 
