@@ -32,7 +32,7 @@ Ou seja, esse arquivo nada mais é do que um arquivo de texto, contendo uma list
 Considerando esse `requirements.txt` aqui:
 
 ~~~ plaintext
-1    git+https://github.com/jtemporal/caipyra.git@master
+1    -e git+https://github.com/jtemporal/caipyra.git@master#egg=caipyra
 3    seaborn==0.8.1
 2    pandas>=0.18.1
 4    serenata-toolbox
