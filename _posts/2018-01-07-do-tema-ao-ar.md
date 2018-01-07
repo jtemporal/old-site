@@ -14,7 +14,7 @@ tags:
 comments: true
 ---
 
-Numa colinha eu falei sobre como usar Jekyll é uma boa ideia para ter o seu site no ar vamos ao exemplo prático usando o terminal. O objetivo aqui é ter um site no ar, então vamos lá.
+Numa [colinha eu falei sobre como usar Jekyll](http://jtemporal.com/temas-jekyll/) é uma boa ideia para ter o seu site no ar vamos ao exemplo prático usando o terminal. O objetivo aqui é ter um site no ar, então vamos lá.
 
 ## Escolhendo um tema
 
