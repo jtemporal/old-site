@@ -1,7 +1,7 @@
 ---
 title: "Colocando um site no ar com Jekyll: usando o terminal"
 layout: post
-date: '2018-01-06 10:00:00'
+date: '2018-01-07 10:00:00'
 tags:
 - Jekyll
 - ruby
