@@ -72,6 +72,8 @@ $ bundle exec jekyll serve
 ```
 ![Foto do terminal servindo o fresh](https://i.imgur.com/Cxh1nNO.png)
 
+_Observação_: se por acaso você não possui uma Gemfile no seu tema, os passos acima não vão funcionar, [da uma lida aqui nessa colinha sobre a Gemfile](http://jtemporal.com/gemfile/) pra entender um pouquinho mais sobre isso ;)
+
 Agora vá até o seu navegador favorito e acesse `http://localhost:4000/fresh/`. Massa né?!
 
 Muito bem, vamos entender o que acabamos de fazer:
