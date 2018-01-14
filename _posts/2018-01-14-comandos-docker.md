@@ -42,20 +42,32 @@ $ docker ps
 ```
 
 ### Todos containers
+E suas informações
 
 ``` console
 $ docker ps -a
+```
+
+### Apenas os IDs de todos os containers
+
+``` console
+$ docker ps -qa
 ```
 
 ---
 
 <h2 id="removendo">Removendo</h2>
 
-### Um container
-Removendo um cotainer que foi parado
+### Um container que foi parado
 
 ``` console
 $ docker rm ID
+```
+
+### Todos  containers que foram parados
+
+``` console
+$ docker rm $(docker ps -qa)
 ```
 
 ### Uma imagem do sistema
@@ -66,7 +78,18 @@ $ docker rmi ID
 ```
 
 ### Todas imagens do sistema
-Remove **TODAS** as imagens Docker da sua máquina. Use com cuidado!
+Remove **TODAS** as imagens Docker que não estiverem em uso da sua máquina. Use com cuidado!
+
+Irá mostrar um erro caso alguma imagem esteja em uso.
+
+``` console
+$ docker rmi $(docker images -qa)
+```
+
+### Todas imagens do sistema
+Remove **TODAS** as imagens Docker que não estiverem em uso da sua máquina. Use com cuidado!
+
+Irá ignorar imagens em uso uso.
 
 ``` console
 $ docker system prune --all
@@ -93,3 +116,6 @@ Maioria, se não todos, os comandos e subcomandos do Docker possuem uma opção 
 
 ### --rm
 Mesma coisa coisa acontece com a opção `--rm`. Quando usada ela indica que o container deverá ser removido após sua execução
+
+### -q
+Maioria, se não todos, os comandos e subcomandos do Docker possuem uma opção `-q` que lista apenas os IDs
