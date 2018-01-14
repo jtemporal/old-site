@@ -4,6 +4,7 @@ layout: post
 date: '2018-01-14 08:00:00'
 tags:
 - colinha
+- cheatsheet
 - docker
 - português
 - container
