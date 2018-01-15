@@ -2,8 +2,9 @@
 title: "Gerando chaves das APIs do Google"
 layout: post
 date: '2018-01-15 01:00:00'
+tutorial: true
 tags:
-- colinha
+- tutorial
 - google api
 - apis
 - api
