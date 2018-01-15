@@ -184,7 +184,7 @@ O Fresh, assim como todos os outros temas disponíveis trazem exemplos de posts.
 
 ### Entendendo o Front Matter
 
-- `layout`: O Jekyll enxerga todas as páginas do blog como um blog post que ele precisa renderizar, inclusive as páginaso _About_, _Contact_ e _Home_ então a tag layout é utilizada para diferenciar a renderização, as opções são: post ou default;
+- `layout`: O Jekyll enxerga todas as páginas do blog como um blog post que ele precisa renderizar, inclusive as páginas _About_, _Contact_ e _Home_ então a tag layout é utilizada para diferenciar a renderização, as opções são: post ou default;
 - `title`: O título da postagem;
 - `date`: A data e hora da publicação no formato `AAAA-MM-DD HH:MM:SS` ainda é possível passar o fuso horário da publicação caso queira usando esse campo;
 - `description`: Cada blogpost pode ter um paragrafo de sinopse na listagem de posts. É aqui que essa sinopse vai.
