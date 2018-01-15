@@ -11,7 +11,13 @@ tags:
 comments: true
 ---
 
-Hoje em dia é sempre API isso ou API aquilo. APIs nada mais são do que uma forma de acessar dados e/ou serviços por meio de um programa. Mas pra acessar APIs como as do Google você vai precisar de uma chave. A colinha de hoje vai ensinar você a criar uma chave do Google e ativar uma das APIs do Google para usá-la.
+Hoje em dia é sempre API isso ou API aquilo. APIs nada mais são do que uma forma de acessar dados e/ou serviços por meio de um programa. Mas pra acessar APIs como as do Google você vai precisar de uma chave. Esse tutorial de hoje vai ensinar você a criar uma chave do Google e ativar uma das APIs do Google para usá-la. Lembrando que os passo a seguir são para criação de chaves para uso próprio, chaves para aplicações web e outras aplicações pode ter passos diferentes ;)
+
+![let's do this](https://media.giphy.com/media/zaezT79s3Ng7C/giphy.gif)
+<center>
+<i>Vamos lá!</i>
+</center>
+
 
 ## Começando
 Pra começar acesse o [painel de desenvolvimento do Google](https://console.developers.google.com/apis/dashboard). Ele deve ter uma carinha parecida com essa aqui:
