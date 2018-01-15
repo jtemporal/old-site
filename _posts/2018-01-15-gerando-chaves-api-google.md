@@ -116,4 +116,4 @@ Não, acessando o console estando logado na sua conta do Gmail você já tem ace
 
 ----
 ## Agradecimentos
-Ao querido Cássio Botaro que deu essa ideia de colinha <3
+Ao querido Cássio Botaro que deu essa ideia de tutorial <3
