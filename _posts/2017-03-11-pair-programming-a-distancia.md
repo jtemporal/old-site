@@ -92,8 +92,7 @@ mandar o link de acesso para quem quiser e, caso o link enviado não seja o _rea
 -only_, a pessoa do outro lado da conexão poderá programar no seu computador.
 
 Assim como o VIM, tmux /tmate possui modos e atalhos de teclado para sua utiliz
-ação. E eu recomendo fortemente [essa palestra](https://gist.github.com/rougeth
-/db185fc21c376ece8fc6) do [Marco Rougeth](https://twitter.com/marcorougeth) par
+ação. E eu recomendo fortemente [essa palestra](https://gist.github.com/rougeth/db185fc21c376ece8fc6) do [Marco Rougeth](https://twitter.com/marcorougeth) par
 a usar de referência com esses comandos.
 
 ### Canal por voz
