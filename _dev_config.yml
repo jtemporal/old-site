@@ -33,8 +33,8 @@ sass:
 # if you don't have any of social below, comment the line.
 google:
   #plus:            #username
-  analytics:        UA-89599031-1
-  tagmanager:       GTM-KKCR3VG
+  # analytics:        UA-89599031-1
+  # tagmanager:       GTM-KKCR3VG
   #verify:
   #ad-client:
   #ad-slot:
