@@ -58,6 +58,8 @@ Massa né? Agora não tem mais desculpa pra não formatar os códigos bonitinhos
 
 ----
 ## Links
+- Parte do livro [Essencial Go que fala sobre `go fmt`](https://www.programming-books.io/essential/go/323-go-fmt)
+- Documentação sobre a [formatação de código Go no Effective Go](https://golang.org/doc/effective_go.html#formatting)
 
 ## Agradecimentos
 Principalmente ao Cesar que pacientemente tem me ensinado Go.
