@@ -16,7 +16,7 @@ Coisa linda de se ver é usar um formatador de código, principalmente quando vo
 
 A colinha de hoje mostra como a linguagem de programação [Go](https://golang.org/) ajuda a formatar o código sem sofrimento.
 
-Então vamos lá, vamos supor que você escreveu o seguinte código num arquivo chamado `helloworld.go`:
+Pra começar, é preciso entender que código bem formatado está na cultura da linguagem Go desde que ela nasceu, para os mais experientes isso nao passa de uma boa prática muito comum. Mas como fica isso na prática? Então vamos lá, vamos supor que você escreveu o seguinte código num arquivo chamado `helloworld.go`:
 
 ```go
 package main
