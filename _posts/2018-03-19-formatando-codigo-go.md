@@ -26,7 +26,7 @@ fmt.Println("Hello world!")
 }
 ```
 
-Até aí tudo bem, esse códgio compila e se você fizer `go run helloworld.go` ele ainda escreve na tela o seu `Hello World!` porém, se você tivesse que mandar esse código para um projeto aberto, provavelmente pessoas revisando seu código iriam pedir para você formatá-lo melhor.
+Até aí tudo bem, esse código compila e se você fizer `go run helloworld.go` ele ainda escreve na tela o seu `Hello World!` porém, se você tivesse que mandar esse código para um projeto aberto, provavelmente pessoas revisando seu código iriam pedir para você formatá-lo melhor.
 
 Existe um monte de ferramentas própria da linguagem para ajudar a pessoa que desenvolve, sendo uma delas o `gofmt`. Ele pode mostrar na tela a formatação indicada para um código fonte ou até mesmo formatar para você o código que você escreve. Para usar o `gofmt` basta passar o nome do arquivo para ele:
 
