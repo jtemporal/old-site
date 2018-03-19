@@ -12,7 +12,10 @@ url:                https://jtemporal.github.io
 url_share:          http://jtemporal.com
 
 # Jekyll
+lang:               "pt-br"
+languages:          ["pt-br", "en"]
 timezone:           America/Sao_Paulo
+# permalink:          /:categories/:title/
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
