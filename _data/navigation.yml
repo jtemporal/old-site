@@ -1,10 +1,30 @@
 # Site navigation links
-
-- title: Projects
-  url: /projects/
-
-- title: Talks
-  url: /talks/
-
-- title: Tutorials
-  url: /tutorials/
+languages:
+  - language: "pt-br"
+    links:
+    - title: "Home"
+      url:   /
+    - title: "Sobre"
+      url:   /#/
+    - title: "Posts"
+      url:   /#/
+    - title: "Projetos"
+      url:   /projetos/
+    - title: "Palestras"
+      url:   /palestras/
+    - title:  "Tutoriais"
+      url:   /tutoriais/
+    - title: "CV"
+      url:   /EnJtResume.pdf/
+  - language: "en"
+    links:
+    - title: "Projects"
+      url: /projects/
+    - title: "Talks"
+      url: /talks/
+    - title: "Tutorials"
+      url: /tutorials/
+    - title: "Português"
+      url:   /
+    - title: "Resume"
+      url:   /EnJtResume.pdf/

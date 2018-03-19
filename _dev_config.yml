@@ -12,7 +12,9 @@ locale:             en_US
 url_share:          http://jtemporal.com
 
 # Jekyll
-permalink:          /:title/
+lang:               "pt-br"
+languages:          ["pt-br", "en"]
+permalink:          /:categories/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
