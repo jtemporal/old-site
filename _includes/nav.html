@@ -7,9 +7,6 @@
 	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 		<button class="dl-trigger">Open Menu</button>
 		<ul class="dl-menu">
-            {% capture site_lang %}
-              {{ site.lang | default: "en" }}
-            {% endcapture %}
             {% for item in site.data.navigation.languages %}
             {% if item.language == site.lang %}
             {% for link in item.links %}
