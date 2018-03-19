@@ -54,7 +54,7 @@ func main() {
 }
 ```
 
-Massa né? Agora não tem mais desculpa pra não formatar os códigos bonitinhos os 😜
+Massa né? Agora não tem mais desculpa pra não formatar os códigos bonitinhos  😜
 
 ----
 ## Links
