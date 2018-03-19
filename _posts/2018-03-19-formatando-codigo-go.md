@@ -1,7 +1,7 @@
 ---
 title: "Formatando código Go usando o próprio Go pra isso"
 layout: post
-date: '2018-03-19 08:00:00'
+date: '2018-03-19 05:00:00'
 tags:
 - colinha
 - go
