@@ -174,7 +174,7 @@ Ainda na aba `Rows` conseguimos ver e executar filtros simples como selecionar t
 
 Para ver uma listagem completa da estrutura de cada tabela, novamente clique na tabela escolhida no menu à esquerda da tela e clique na aba `Structure`:
 
-![aba “structure” da tabela clientes](https://i.imgur.com/lkkcKD7.png)
+![aba “structure” da tabela clientes](https://i.imgur.com/ltQrIi8.png)
 
 ### Histórico: `History`
 
