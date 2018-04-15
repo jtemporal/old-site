@@ -15,6 +15,7 @@ url_share:          http://jtemporal.com
 lang:               "pt-br"
 languages:          ["pt-br", "en"]
 permalink:          /:categories/:title/
+timezone:           America/Sao_Paulo
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
