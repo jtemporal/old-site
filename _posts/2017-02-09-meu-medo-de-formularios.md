@@ -2,7 +2,7 @@
 layout: post
 title: "Meu medo de formulários"
 date: 2017-02-09
-tags: [português, Síndrome Do Impostor, Formulários, Django Girls, Django, Pessoal]
+tags: [português, síndrome do impostor, formulários, django girls, django, pessoal]
 comments: true
 ---
 

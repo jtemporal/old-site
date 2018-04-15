@@ -2,7 +2,7 @@
 layout: post
 title: "O que 1024 caracteres não me deixaram falar"
 date: 2017-01-23
-tags: [pessoal, Python, PyCon, português]
+tags: [pessoal, python, pycon, português]
 comments: true
 ---
 

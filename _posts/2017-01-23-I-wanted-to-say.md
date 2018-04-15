@@ -2,7 +2,7 @@
 layout: post
 title: "What I wanted to say but 1024 characters wouldn’t let me"
 date: 2017-01-23
-tags: [personal, Python, PyCon, english]
+tags: [personal, python, pycon, english]
 comments: true
 ---
 

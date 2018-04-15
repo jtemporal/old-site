@@ -2,7 +2,7 @@
 layout: post
 title: "Esfarelou, virou purpurina"
 date: 2017-02-02
-tags: [personal, posia, amor, português]
+tags: [pessoal, poesia, amor, português]
 comments: true
 ---
 Porque somos tão relutantes em sentir e expressar amor? Não sei vocês. Mas eu amo

@@ -2,7 +2,7 @@
 layout: post
 title: "Comunidade Python e Rio de Janeiro"
 date: 2017-05-10
-tags: [português, Python, Comunidade, Rio De Janeiro, Eventos, Pessoal]
+tags: [português, python, comunidade, rio de janeiro, eventos, pessoal]
 comments: true
 ---
 
