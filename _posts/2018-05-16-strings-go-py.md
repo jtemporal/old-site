@@ -39,7 +39,7 @@ print('Gopher'.startswith('Go'))
 print('Gopher'.startswith('C'))
 ```
 
-Os dois exemplos vão printar "true" em ambas linguagens.
+Os dois exemplos vão printar "true"  e "false" em ambas linguagens.
 
 Curiosamente, se você quiser saber se a sua string começa com `""` (string vazia) ambas linguagens vão retornar "true" também.
 
