@@ -9,11 +9,11 @@ languages:
     - title: "Posts"
       url:   /#/
     - title: "Projetos"
-      url:   /projetos/
+      url:   /projects/
     - title: "Palestras"
-      url:   /palestras/
+      url:   /talks/
     - title:  "Tutoriais"
-      url:   /tutoriais/
+      url:   /tutorials/
     - title: "CV"
       url:   /EnJtResume.pdf/
   - language: "en"
