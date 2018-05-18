@@ -74,6 +74,7 @@ Massa né? Partiu aprender outras linguagens  😜
 - [Python str.startswith](https://docs.python.org/3/library/stdtypes.html#str.startswith)
 - [Go strings.HasPrefix](https://golang.org/pkg/strings/#HasPrefix)
 - [Implementação do strings.HasPrefix](https://github.com/golang/go/blob/4102e6ff56eee8fd6a1689f4bcf9d5a92cc44a6c/src/strings/strings.go#L450)
+- [Se quiser ver o Cesar explicando tudo isso em vídeo dá uma olhada nesse post do grupo de estudos de Go](https://gopher.pro.br/post/hangout-hasprefix/)
 
 ## Agradecimentos
 Principalmente ao Cesar que pacientemente tem me ensinado Go.
