@@ -9,7 +9,7 @@ background:         'assets/img/channel.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jtemporal.github.io
-url_share:          http://jtemporal.com
+url_share:          https://jtemporal.com
 
 # Jekyll
 lang:               "pt-br"
