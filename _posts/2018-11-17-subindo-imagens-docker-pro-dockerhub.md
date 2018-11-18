@@ -57,7 +57,12 @@ Basicamente é esse passo que nos permite divulgar nossas imagens. Então depois
 <i>docker push $(echo DOCKER_USERNAME)/sum</i>
 </center>
 
-e pronto. Agora a imagem foi enviada para o Docker Hub, tornando possível qualquer pessoa usar o `docker pull` para baixar a imagem.
+e pronto. Agora a [imagem foi enviada para o Docker Hub](https://hub.docker.com/r/jtemporal/sum/), tornando possível qualquer pessoa usar o `docker pull` para baixar a e usar a imagem:
+
+![docker pull e uso da imagem](https://raw.githubusercontent.com/jtemporal/autom-dockerhub-example/master/gifs/docker-pull.gif)
+<center>
+<i>docker pull jtemporal/sum && docker run --rm jtemporal/sum 4 2</i>
+</center>
 
 ## Algo extra
 
