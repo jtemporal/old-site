@@ -20,7 +20,9 @@ Já achou mágico aquelas imagens pros containers docker que qualquer um pode us
 
 Pra começar você vai precisar de uma conta no [Docker Hub](https://hub.docker.com/) é lá que todas todas as imagens para containers Docker vivem. Depois de criar sua continha lá, podemos passar para linha de comando e começar a usar a CLI do Docker.
 
-Vamos começar pelo login, embora você não precise fazer login para fazer o build das suas imagens, uma vez feito o login você pode esquecer que ele existe:
+Antes de fazer qualquer coisa precisamos de um projeto certo? O projeto que vamos usar aqui [está neste repositório do GitHub](https://github.com/jtemporal/autom-dockerhub-example). Ele consiste apenas em um script Python que faz a soma de dois números recebidos na linha de comando.
+
+Agora que temos um projeto vamos começar pelo _login_, embora você não precise fazer _login_ para fazer o build das suas imagens, uma vez feito o _login_ você pode esquecer que ele existe:
 
 ![login](https://raw.githubusercontent.com/jtemporal/autom-dockerhub-example/master/gifs/docker-login.gif)
 <center>
