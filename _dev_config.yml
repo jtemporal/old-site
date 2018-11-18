@@ -43,7 +43,6 @@ google:
   #ad-slot:
 #bing-verify:
 email:              jessicatemporal@gmail.com
-# twitter:            jesstemporal
 # facebook:           jetemporal
 github-url:             jtemporal
 
@@ -72,7 +71,7 @@ linkedin:           jessicatemporal
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
