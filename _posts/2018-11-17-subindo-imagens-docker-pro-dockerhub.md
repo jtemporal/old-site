@@ -1,6 +1,7 @@
 ---
 title: "Subindo imagens docker pro dockerhub"
 layout: post
+tutorial: true
 date: '2018-11-17 08:00:00'
 tags:
 - tutorial
