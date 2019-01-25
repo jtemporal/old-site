@@ -8,9 +8,9 @@ comments: false
 
 <center>
    Developer who loves to write beautiful code. PyLadies and Django Girls member.
-   Addicted to data science, and has already participated in projects like hacking
+   Addicted to data science, and has already participated in projects hacking
    the genome code or researching tweets with NLP and Python. Today she works as
-   developer anda data scientist at <a href="https://nuveo.ia">Nuveo</a>
+   a senior data scientist at Grupo Globo.
   <br>
    In her free time cultivates red curls and adds movie trailers to the never ending 'to watch' movie collection.
 </center>
